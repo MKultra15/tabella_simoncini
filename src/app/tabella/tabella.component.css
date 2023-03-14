@@ -1,0 +1,21 @@
+table {
+    width: 100%;
+    background-color: fuchsia;
+    border: 6px solid greenyellow;
+  }
+
+td {
+  color: aqua;
+  border: 6px solid navy;
+  background-image: url(../../../../../Desktop/black-adam.webp);
+}
+
+th {
+  border: 6px solid maroon;
+  color: green;
+}
+
+body {
+  background-color: yellow;
+}
+  
